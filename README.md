@@ -9,6 +9,10 @@ cd NFT-Marketplace-Tutorial
 npm install
 npm start
 ```
+Ethereum address:
+
+0x372805FbFE4Eb2Dae81Aa55Ed818ED46c696AB0a
+
 Deployed Contract:
 
 https://goerli.etherscan.io/address/0xc46d15910ad66c68cfd5d97f86020423427fc0ba#code
